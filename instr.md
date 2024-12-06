@@ -13,18 +13,31 @@
 ### Структура папок:
 C:\xampp\htdocs\volont\
 ├── index.html
+
 ├── about.html
+
 ├── cats.html
+
 ├── volunteers.html
+
 ├── style.css
+
 └── images\
+
   ├── header-cats.jpg
+  
   ├── Dasha.jpeg
+  
   ├── Sasha.jpeg
-  └── Nastya.jpeg
-  └── cat1.jpeg
-  └── cat2.jpeg
-  └── cat3.jpeg
+  
+  ├── Nastya.jpeg
+  
+  ├── cat1.jpeg
+  
+  ├── cat2.jpeg
+  
+  ├── cat3.jpeg
+  
   └── cat4.jpeg
 ## 4. Проверка прав доступа
 - Убедитесь, что все файлы доступны для чтения
