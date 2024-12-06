@@ -24,21 +24,22 @@ C:\xampp\htdocs\volont\
 
 └── images\
 
-  ├── header-cats.jpg
+├── header-cats.jpg
   
-  ├── Dasha.jpeg
+├── Dasha.jpeg
   
-  ├── Sasha.jpeg
+├── Sasha.jpeg
   
-  ├── Nastya.jpeg
+├── Nastya.jpeg
+    
+├── cat1.jpeg
   
-  ├── cat1.jpeg
+├── cat2.jpeg
   
-  ├── cat2.jpeg
+├── cat3.jpeg
   
-  ├── cat3.jpeg
-  
-  └── cat4.jpeg
+└── cat4.jpeg
+    
 ## 4. Проверка прав доступа
 - Убедитесь, что все файлы доступны для чтения
 - При необходимости измените права доступа
