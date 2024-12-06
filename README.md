@@ -25,4 +25,4 @@
 
   [Страница О нас](О_нас.png)
 
-
+  [Ссылка на дизайн в приложении Figma](https://www.figma.com/design/kLnOFzreAaNfU9LC8lM0IN/Untitled?node-id=0-1&node-type=canvas&t=mEHf5fEtF8J7BOrw-0)
