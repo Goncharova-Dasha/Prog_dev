@@ -17,9 +17,31 @@
 - События: Календарь предстоящих мероприятий и акций.
 - Блог: Статьи и истории о волонтерах и их опыте работы с кошками.
 
+
   [Файл about.html](about.html)
 
   [Файл volunteers.html](volunteers.html)
 
   [Файл style.css](style.css) 
   
+
+
+[Файл index.html](index.html)
+
+[Файл style.css](style.css)
+
+  [Главная страница сайта](Главная.png)
+
+  [Страница Волонтеры](Волонтеры.png)
+
+  [Страница Котики](Котики.png)
+
+  [Страница О нас](О_нас.png)
+
+  [Ссылка на дизайн в приложении Figma](https://www.figma.com/design/kLnOFzreAaNfU9LC8lM0IN/Untitled?node-id=0-1&node-type=canvas&t=mEHf5fEtF8J7BOrw-0)
+
+  [Инструкция по развертывнию](instr.md)
+
+  [Минимальные шаблон сайта](https://web-school.susu.ru/goncharova/)
+
+  [Техническое задание](inf.md)
