@@ -18,6 +18,14 @@
 - Блог: Статьи и истории о волонтерах и их опыте работы с кошками.
 
 
+  [Файл about.html](about.html)
+
+  [Файл volunteers.html](volunteers.html)
+
+  [Файл style.css](style.css) 
+  
+
+
 [Файл index.html](index.html)
 
 [Файл style.css](style.css)
@@ -37,5 +45,3 @@
   [Минимальные шаблон сайта](https://web-school.susu.ru/goncharova/)
 
   [Техническое задание](inf.md)
-
-
