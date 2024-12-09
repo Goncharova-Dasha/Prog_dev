@@ -47,4 +47,3 @@ C:\xampp\htdocs\volont\
 ## 5. Открытие сайта
 - Откройте браузер
 - Введите в адресной строке: `http://localhost/volont/index.html`
-
