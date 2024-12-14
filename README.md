@@ -23,12 +23,8 @@
   [Файл volunteers.html](volunteers.html)
 
   [Файл style.css](style.css) 
-  
 
-
-[Файл index.html](index.html)
-
-[Файл style.css](style.css)
+  [Файл index.html](index.html)
 
   [Главная страница сайта](Главная.png)
 
